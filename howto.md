@@ -1,10 +1,7 @@
 ---
-title: ""
-author: "Aaron Peikert"
+title: "Workshop 4 R"
 date: "11/30/2019"
-output: html_document
 ---
-
 
 # Event Title: 
 
@@ -77,6 +74,4 @@ What has to be done after the event? (e.g., cleaning up, bringing back materials
 How do you keep in contact to your participants (if desired)?
 How can learnings from this event be transferred to the next event?
 Should the event be evaluated and if yes, how?
-
-
 
